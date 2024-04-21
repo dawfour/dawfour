@@ -8,14 +8,14 @@ https://www.sisik.eu/apk-tool
 FILEs
 https://www.virustotal.com/gui/home/upload   
 https://dnsdumpster.com/  
-GitGub Photon
+https://github.com/s0md3v/Photon
 
 
 Archiwizacji stron w Internecie
 https://web.archive.org/ 
 https://archive.today/ 
 
-Dekodowanie
+Dekodowanie treści 
 https://gchq.github.io/CyberChef/ 
 https://dencode.com
 https://cryptii.com/
@@ -27,16 +27,115 @@ https://reqbin.com/curl
 https://wget.alanreed.org/ 
 https://restninja.io/ 
 https://websniffer.cc/ 
-
-DeObfuscation PHP
+  
+DeObfuscation script PHP
 http://www.phpformatter.com/ 
 https://www.unphp.net/ 
 https://onlinephp.io/ 
 
-
-DeObfuscation JavaScript
+DeObfuscation script JavaScript
 https://lelinhtinh.github.io/de4js/ 
 https://deobfuscate.io/ 
 https://obf-io.deobfuscate.io/   
 https://www.dcode.fr/javascript-unobfuscator 
+
+
+
+
+JAVA Script
+
+Beautification Tools
+https://beautifier.io/ 
+https://beautifycode.net/ 
+
+Static analysis tools
+https://jshint.com/
+https://eslint.org/play/
+
+String Decoding
+https://gchq.github.io/CyberChef/
+https://url-decode.com/
+https://www.freeformatter.com/javascript-escape.html
+
+Pattern Recognition
+https://gchq.github.io/CyberChef/
+
+Dynamic Analysis
+https://www.programiz.com 
+https://www.codechef.com/ide  
+https://onecompiler.com/  
+https://tio.run/
+
+Symbolic Execution 
+https://angr.io/ 
+https://angularjs.org 
+https://jacksongl.github.io/files/demo/jalangiff/index.html 
+
+Debuger
+https://codepen.io/pen/
+
+PHP 
+
+Beautification Tools	
+https://beautifycode.net/ 
+https://www.phpformatter.com/
+https://benjamincrozat.com/pint-express"
+
+Static analysis tools	
+https://phpstan.org/try
+https://phpmd.org/
+https://codesandbox.io/
+https://www.onworks.net/programs/phpmd-online
+
+String Decoding	
+https://gchq.github.io/CyberChef/
+https://url-decode.com/
+
+
+Pattern Recognition	
+https://gchq.github.io/CyberChef/
+
+Dynamic Analysis	
+https://onlinephp.io/
+https://tio.run/
+
+Symbolic Execution
+https://onlinephp.io/
+
+Debuger	
+https://xdebug.org/
+
+
+HTML 
+
+Beautification Tools
+https://beautifycode.net/ 
+https://webformatter.com/html
+
+Static analysis tools
+
+String Decoding
+https://gchq.github.io/CyberChef/
+https://url-decode.com/
+https://mothereff.in/html-entities
+
+Pattern Recognition
+
+Dynamic Analysis
+
+Debuger
+https://software.hixie.ch/utilities/js/live-dom-viewer/
+https://codesandbox.io/
+https://codepen.io/pen/
+https://3nykt6.csb.app/
+
+
+
+
+  
+
+
+
+
+
 
